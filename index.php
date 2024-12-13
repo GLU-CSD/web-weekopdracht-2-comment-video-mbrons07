@@ -35,6 +35,11 @@ if(!empty($_POST)){
 <body>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kf1gHqritRQ?si=7hVyb22P5y5lnrUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+    <h2>hier komt het formulier om een bericht te bersturen</h2>
+    <form action="" method="post">
+        <input type="text" placeholder="..vul hier je naam in" name="name">
+        <br>
+        <textarea id="w3review" placeholder="..vul hier je bericht in" name="message" name="w3review" rows="4" cols="50"></textarea>
     <h2>Hieronder komen reacties</h2>
     <p> this is peak music this is peak fiction </p>
     <p> absolute cinema </p>
