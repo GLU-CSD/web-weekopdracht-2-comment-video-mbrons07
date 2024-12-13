@@ -33,10 +33,12 @@ if(!empty($_POST)){
     <title>Youtube remake</title>
 </head>
 <body>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ?si=twI61ZGDECBr4ums" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kf1gHqritRQ?si=7hVyb22P5y5lnrUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
     <h2>Hieronder komen reacties</h2>
-    <p>Maak hier je eigen pagina van aan de hand van de opdracht</p>
+    <p> this is peak music this is peak fiction </p>
+    <p> absolute cinema </p>
+    <p> best final boss music ever (edited) </p>
 </body>
 </html>
 
